@@ -1,0 +1,270 @@
+CRITICAL - 2022-04-30 16:01:16 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\betalife-test\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2022-04-30 09:17:12 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:17:25 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:17:34 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:17:47 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:25:56 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:25:58 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:26:08 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:26:26 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:26:52 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:27:03 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:27:25 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:27:35 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:07 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:08 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:14 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:15 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:15 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:16 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:16 --> Call to a member function library() on null
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 09:32:41 --> Undefined property: App\Controllers\MobileAppApi::$load
+#0 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 18, Array)
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-04-30 10:23:49 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
+ERROR - 2022-04-30 10:24:31 --> Error connecting to the database: Unknown database 'betalife'
+ERROR - 2022-04-30 10:28:04 --> Invalid default value for 'date_created'
+CRITICAL - 2022-04-30 10:39:26 --> Too few arguments to function App\Controllers\MobileAppApi::userInformation(), 0 passed in C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->userInformation()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 10:51:02 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:51:36 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:51:55 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:52:17 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:52:23 --> Call to undefined function App\Controllers\UserModel()
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-04-30 10:52:28 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:53:42 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:54:21 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:54:47 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-30 10:56:19 --> betalife is not a valid database connection group.
+#0 C:\xampp\htdocs\betalife-test\app\Models\UserModel.php(12): CodeIgniter\Database\Config::connect('betalife')
+#1 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(61): App\Models\UserModel->submitSignUpForm(Array)
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+ERROR - 2022-04-30 10:56:50 --> Unknown column 'firstname' in 'field list'
+CRITICAL - 2022-04-30 10:56:50 --> Unknown column 'firstname' in 'field list'
+#0 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\betalife-test\app\Models\UserModel.php(14): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(61): App\Models\UserModel->submitSignUpForm(Array)
+#6 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignUp()
+#7 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#8 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-04-30 10:59:12 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$password
+#0 C:\xampp\htdocs\betalife-test\app\Models\UserModel.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(103): App\Models\UserModel->authenticateUser('lasaa@email.com', 'password')
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignIn()
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-30 11:00:34 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$password
+#0 C:\xampp\htdocs\betalife-test\app\Models\UserModel.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(103): App\Models\UserModel->authenticateUser('lasaa@email.com', 'password')
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignIn()
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-30 11:02:22 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$password
+#0 C:\xampp\htdocs\betalife-test\app\Models\UserModel.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(103): App\Models\UserModel->authenticateUser('lasaa@email.com', 'password')
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignIn()
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-30 11:03:13 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$password
+#0 C:\xampp\htdocs\betalife-test\app\Models\UserModel.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(103): App\Models\UserModel->authenticateUser('lasaa@email.com', 'password')
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignIn()
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-04-30 11:04:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(103): App\Models\UserModel->authenticateUser('lasaa@email.com', 'password')
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignIn()
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-30 11:08:00 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getRow()
+#0 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(103): App\Models\UserModel->authenticateUser('lasaa@email.com', 'password')
+#1 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->processSignIn()
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-04-30 11:13:42 --> Trying to get property 'first_name' of non-object
+#0 C:\xampp\htdocs\betalife-test\app\Models\UserModel.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\betalife-test\app\Controllers\MobileAppApi.php(140): App\Models\UserModel->getUsersInformation('lasvs@jhdhd.cos...')
+#2 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(832): App\Controllers\MobileAppApi->userInformation()
+#3 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MobileAppApi))
+#4 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\betalife-test\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\betalife-test\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
